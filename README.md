@@ -15,8 +15,12 @@ customersegmentation/
 ├── streamlit_app.py             # Streamlit web application
 ├── requirements.txt             # Python dependencies
 ├── README.md                    # Project documentation
+├── Figure_1                     # Application Screenshot
 ```
+## 🔗 Streamlit Website
 
+- https://customersegmentation01.streamlit.app
+  
 ## 🚀 Features
 
 - Performs feature extraction: Recency, Frequency, Monetary (RFM)
@@ -71,15 +75,6 @@ streamlit run streamlit_app.py
 The dataset is based on UK-based e-commerce transaction data for retail purchases between 2010 and 2011.  
 
 > Note: `cleaned_data.csv` is a processed version of the original raw data. Due to GitHub's 25MB file limit, consider using [Git LFS](https://git-lfs.github.com/) or storing the file in an external location if it exceeds the size limit.
-
-## 🧑‍💻 Author
-
-**Kirtikayush**  
-[GitHub Profile](https://github.com/kirtikayush)
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
