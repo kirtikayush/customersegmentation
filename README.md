@@ -2,7 +2,7 @@
 
 This project performs customer segmentation using RFM (Recency, Frequency, Monetary) analysis on e-commerce transaction data. It leverages K-Means clustering and visualizes the segments using a Streamlit dashboard.
 
-![App Screenshot](Figure_1.png)
+![App Screenshot ](Figure_1.png)
 
 ## 📁 Project Structure
 
